@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>topics on PHI 162</title>
+    <link>http://chreliot.github.io/phi162/tags/topics/</link>
+    <description>Recent content in topics on PHI 162</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jan 2022 16:57:27 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi162/tags/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Topic 2: Darwin and Natural Selection</title>
+      <link>http://chreliot.github.io/phi162/topics/darwin-and-natural-selection/</link>
+      <pubDate>Sun, 30 Jan 2022 16:57:27 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi162/topics/darwin-and-natural-selection/</guid>
+      <description>Reading  First  Reading questions  one two  See also  First  </description>
+    </item>
+    
+    <item>
+      <title>Topic 1: Before Natural Selection</title>
+      <link>http://chreliot.github.io/phi162/topics/before-natural-selection/</link>
+      <pubDate>Sun, 30 Jan 2022 16:56:27 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi162/topics/before-natural-selection/</guid>
+      <description>Reading  Aristotle, excerpts from Physics and Parts of Animals (about 350 BCE). Handout, Blackboard.  Note: This is short but dense. Try to work through it carefully; see the reading questions below ↓.   William Smellie, “Of the Progressive Scale or Chain of Beings in the Universe” (1791).  Note: This is an account of the relationships among all living things from the perspective of late-eighteenth century biology in England.</description>
+    </item>
+    
+  </channel>
+</rss>

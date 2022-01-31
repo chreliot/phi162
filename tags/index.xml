@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on PHI 162</title>
+    <link>http://chreliot.github.io/phi162/tags/</link>
+    <description>Recent content in Tags on PHI 162</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jan 2022 16:57:27 -0500</lastBuildDate><atom:link href="http://chreliot.github.io/phi162/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>topics</title>
+      <link>http://chreliot.github.io/phi162/tags/topics/</link>
+      <pubDate>Sun, 30 Jan 2022 16:57:27 -0500</pubDate>
+      
+      <guid>http://chreliot.github.io/phi162/tags/topics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>assignments</title>
+      <link>http://chreliot.github.io/phi162/tags/assignments/</link>
+      <pubDate>Sat, 29 Jan 2022 21:19:23 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi162/tags/assignments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tests</title>
+      <link>http://chreliot.github.io/phi162/tags/tests/</link>
+      <pubDate>Tue, 23 Nov 2021 09:54:48 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi162/tags/tests/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes</title>
+      <link>http://chreliot.github.io/phi162/tags/notes/</link>
+      <pubDate>Wed, 01 Sep 2021 11:44:45 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi162/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

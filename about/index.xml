@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on PHI 162</title>
+    <link>http://chreliot.github.io/phi162/about/</link>
+    <description>Recent content in About on PHI 162</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Sep 2019 12:36:47 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi162/about/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

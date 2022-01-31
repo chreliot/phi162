@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Assignments on PHI 162</title>
+    <link>http://chreliot.github.io/phi162/assignments/</link>
+    <description>Recent content in Assignments on PHI 162</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jan 2022 21:19:23 -0400</lastBuildDate><atom:link href="http://chreliot.github.io/phi162/assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment 2</title>
+      <link>http://chreliot.github.io/phi162/assignments/assignment-2/</link>
+      <pubDate>Sat, 29 Jan 2022 21:19:23 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi162/assignments/assignment-2/</guid>
+      <description>This content will be available later in the course, well before the due date.
+See the Writing a Philosophy Paper handout for general guidelines.</description>
+    </item>
+    
+    <item>
+      <title>Assignment 1</title>
+      <link>http://chreliot.github.io/phi162/assignments/assignment-1/</link>
+      <pubDate>Sat, 29 Jan 2022 21:19:14 -0400</pubDate>
+      
+      <guid>http://chreliot.github.io/phi162/assignments/assignment-1/</guid>
+      <description>This content will be available later in the course, well before the due date.
+See the Writing a Philosophy Paper handout for general guidelines.</description>
+    </item>
+    
+  </channel>
+</rss>
